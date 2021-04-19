@@ -1,9 +1,9 @@
 {
-  "title": "Burg Halle Knowledge Base",
-  "url": "https://burg-halle.de/",
+  "title": "Burg Halle Kommunikations-Design Know-How",
+  "url": "https://burghalle-kommunikationsdesign.github.io/",
   "logo": {
-    "light": "/",
-    "dark": "/"
+    "light": "/logo/WortmarkeBURG-Logo-Black.svg",
+    "dark": "/logo/WortmarkeBURG-Logo-White.svg"
   },
-  "github": "fabianwohlfart/website__burg-halle-knowledge-base.git"
+  "github": "BurgHalle-KommunikationsDesign/burghalle-kommunikationsdesign.github.io"
 }
