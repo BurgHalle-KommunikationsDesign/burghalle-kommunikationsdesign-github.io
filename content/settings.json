@@ -1,0 +1,9 @@
+{
+  "title": "Burg Halle Knowledge Base",
+  "url": "https://burg-halle.de/",
+  "logo": {
+    "light": "/",
+    "dark": "/"
+  },
+  "github": "fabianwohlfart/website__burg-halle-knowledge-base.git"
+}
