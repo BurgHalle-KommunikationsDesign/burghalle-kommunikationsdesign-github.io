@@ -1,0 +1,11 @@
+{
+  "name": "burg-halle-knowledge-base",
+  "short_name": "burg-halle-knowledge-base",
+  "description": "## Setup",
+  "icons": [],
+  "start_url": "/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "lang": "en"
+}
