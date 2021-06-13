@@ -8,7 +8,7 @@ version: 0.9
 ## Description
 
 We are not limited to make [(Scaleable) Vector Graphics / SVGs](/basics/vectors) with Adobe Illustrator.
-We can use code to build them. As SVGs are based on XML we can use [CSS](/basics/css) to style and [JS](/basics/js) to interact with them.
+We can use code to build them. As SVGs are based on XML we can use [CSS](/basics/css) to style and [Javascript](/basics/javascript) to interact with them.
 
 The two most prominent frameworks — there are probably many many more — to do so are **Processing** and **DrawBot**.
 
