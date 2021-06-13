@@ -3,11 +3,12 @@ title: PHP
 description: ''
 position: 5.4
 category: Advanced
-version: 0.9
+version: 1.0
 ---
 ## Description
 
-Server side language used to pre-process files like HTML, CSS, JS.
+Server side language which is used to pre-process files like HTML, CSS, JS.
+[Kirby](/content-management/kirby) and [Wordpress](/content-management/wordpress) are written in PHP.
 
 ## Examples
 
@@ -37,7 +38,7 @@ John
   </body>
 </html>
 ```
-Outpputs
+Outputs
 ```
 <html>
   <head>
@@ -47,4 +48,7 @@ Outpputs
      <p>Hallo Welt</p>
   </body>
 </html>
-``
+```
+
+## Learn More
+- Basics: https://www.w3schools.com/php/default.asp

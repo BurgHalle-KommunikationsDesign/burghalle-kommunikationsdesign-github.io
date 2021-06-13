@@ -3,7 +3,7 @@ title: Editors
 description: ''
 position: 2.01
 category: Basics
-version: 0.9
+version: 1.0
 ---
 
 ## Description

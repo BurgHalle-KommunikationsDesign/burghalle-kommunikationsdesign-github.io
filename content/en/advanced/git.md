@@ -3,15 +3,15 @@ title: Git
 description: ''
 position: 5.6
 category: Advanced
-version: 0.9
+version: 1.0
 ---
 ## Description
 
 Git is a powerful version control system.
 
-## Learning
+## Learn more
 
-Check the first three videos: https://www.youtube.com/watch?v=BCQHnlnPusY
+- First three videos: https://www.youtube.com/watch?v=BCQHnlnPusY
 
 ## Services
 

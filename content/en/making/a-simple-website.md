@@ -11,16 +11,10 @@ Lets build a super simple website, which displays the text **»Hello World«**
 
 ## Tools
 
-- Atom [Editors](/basics/editors)
-- HTML [HTML](/basics/html)
-- CSS [HTML](/basics/css)
-
-## Sourcecode
-
-Download the source code from this github repo:
-
-## Examples
-
-- Marchetti
+- [Atom](/basics/editors)
+- [HTML](/basics/html)
+- [CSS](/basics/css)
 
 ## How To
+
+Will follow soon.

@@ -3,15 +3,15 @@ title: Servers And Clients
 description: ''
 position: 5.1
 category: Advanced
-version: 0.9
+version: 1.0
 ---
 ## Description
 
-The internet is made from a network of servers which each of them have its own address, a domain, so they can be visited by clients.
+The internet is a network of servers with each of them have its own address, a domain, so they can be visited by clients.
 
 ## Server
 
-The server is responsible for serving a website. As we understand a website as a whole, it is indeed a composition of different files e.g. documents (HTML), styles (CSS), scripts (JS), images (JPG, PNG), fonts (WOFF)... So a server simply serves files.
+The server is responsible for serving a website. As we understand a website as a whole, it is indeed a composition of different files e.g. documents (HTML), styles (CSS), scripts (JS), images (JPG, PNG), fonts (WOFF)... A server does not serve websites, it serves files. The client is the interpretor and puts together the website.
 
 Here we see the landing page of the BURG website consisting of 137 files.
 

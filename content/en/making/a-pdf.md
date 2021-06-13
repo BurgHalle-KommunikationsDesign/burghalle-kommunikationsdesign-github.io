@@ -7,9 +7,9 @@ version: 0.9
 ---
 ## Description
 
-Its worth to mention that with **Processing** and **DrawBot** we can not only make vector graphics as descripted in [Making a Font](/making/a-font), but also we can export our canvas as a PDF.
+It's worth to mention that with **Processing** and **DrawBot** we can not only make vector graphics as described in [Making a Font](/making/a-font), but also we can export our canvas as a PDF.
 
-Besides both the Python frameworks above, we can use a PHP framework called Mpdf to generate a proper PDF from HTML.
+Besides both Python frameworks above, we additionally can use the PHP framework *MPDF* to generate a proper PDF from HTML.
 
 ## Tools
 
@@ -19,8 +19,4 @@ Besides both the Python frameworks above, we can use a PHP framework called Mpdf
 
 ## How To
 
-### Draw Bot
-
-### Processing
-
-### Mpdf
+Will follow soon.
