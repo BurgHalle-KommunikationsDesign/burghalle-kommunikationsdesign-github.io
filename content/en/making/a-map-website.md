@@ -27,14 +27,16 @@ https://github.com/BurgHalle-KommunikationsDesign/burghalle-map
 
 `Download and unzip the repository.`
 
-If you are familiar you can also clone it directly from github.
+If you are familiar with git you can also clone it directly from github.
 The repository consists of the following folders and files:
 
-- **_gdal2tiles-leaflet-master** Includes *gdal2tiles.py* which we use to tile up our source image.
+- **_gdal2tiles-leaflet-master** Includes *gdal2tiles.py* which we use to slice our source image into tiles.
 - **assets** Includes CSS and Javascript files to make the website work
 - **index.html** Our entry HTML file
 - **README.md** Hold information about how the repository can be used
 - **tiles** Includes all tiles. Empty at first.
+
+![Download](/map/02.jpg)
 
 ### 2. Source image
 
@@ -77,10 +79,12 @@ This actions is only needed once. It installs needed packages<br>
 `pip install .`
 
 Use this to slice your image, generating tiles, you can do this as often as you want<br>
-`python gdal2tiles.py -l -p raster --z 0-6 image.jpg ../tiles`
+`python gdal2tiles.py -l -p raster -z 0-6 image.jpg ../tiles`
 
 If you have a TIFF you have to change .jpg to .tif<br>
-`python gdal2tiles.py -l -p raster --z 0-6 image.tif ../tiles`
+`python gdal2tiles.py -l -p raster -z 0-6 image.tif ../tiles`
+
+![Terminal](/map/03.jpg)
 
 #### Windows
 Cannot be tested, but should work like the Mac instructions.
