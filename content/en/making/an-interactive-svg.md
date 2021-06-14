@@ -7,7 +7,7 @@ version: 1
 ---
 ## Description
 
-We can use [CSS](/basics/css) animations to inter-act with any [SVG](/basics/vectors).
+We can use [CSS](/basics/css) events and animations to interact with any [SVG](/basics/vectors).
 
 ## Tools
 
